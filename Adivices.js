@@ -1,4 +1,3 @@
-export default {
     "data":  {
         "Adivices" : [
           {
@@ -81,4 +80,4 @@ export default {
       }
 
 
-    }
+    
